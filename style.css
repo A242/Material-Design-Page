@@ -1,0 +1,10 @@
+.fixed-height {
+  height: 180px;
+}
+body {
+  background: #fcfcfc;
+  background: -moz-linear-gradient(left, #fcfcfc 0%, #262291 100%);
+  background: -webkit-linear-gradient(left, #fcfcfc 0%,#262291 100%);
+  background: linear-gradient(to right, #fcfcfc 0%,#262291 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#262291',GradientType=1 );
+}
